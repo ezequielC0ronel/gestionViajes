@@ -34,7 +34,7 @@ public class GestionViajes {
 
         Viaje bsCb = new Viaje(ciudad3, ciudad4, 685.5, 4, camioneta1);
         bsCb.costoTotal();
-        
+        System.out.println("Texto para github");
     }
     
 }
